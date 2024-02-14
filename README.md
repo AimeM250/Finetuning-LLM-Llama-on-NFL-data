@@ -21,7 +21,7 @@ The model is trained using the provided training script on the processed data. T
 # Demo
 The trained model can be interactively tested using a small interface created with Gradio. Users can input queries related to NFL facts and records, and the model will generate relevant responses.
 
-![Gradio Demo](data\gradio.demo.JPG)
+![Gradio Demo](data/gradio.demo.JPG)
 
 # Usage
 To reproduce the training process and testing using the Gradio demo, follow the below steps:
