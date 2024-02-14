@@ -10,7 +10,7 @@ National Football League Record
 2. Develop an interactive interface to showcase the model's capabilities after finetuning.
 
 # Data Engineering Process
-![Llama-2-7b-chat Model by meta](data\Llama2.JPG)
+![Llama-2-7b-chat Model by meta](data/Llama2.JPG)
 
 - **PDF to Text Conversion:** Utilize `process_data.py` to convert PDF files containing the NFL Factbook into raw text format.
 - **Text Preprocessing:** Clean the raw text, removing unnecessary characters like newline characters, and format it appropriately for training.
