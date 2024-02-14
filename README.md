@@ -9,7 +9,7 @@ National Football League Record
 1. Fine-tune Llama-2-7b-chat model on NFL facts and records document.
 2. Develop an interactive interface to showcase the model's capabilities after finetuning.
 
-# Data Engineering Process
+# Data Pre-processing 
 ![Llama-2-7b-chat Model by meta](data/Llama2.JPG)
 
 - **PDF to Text Conversion:** Utilize `process_data.py` to convert PDF files containing the NFL Factbook into raw text format.
